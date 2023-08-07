@@ -1,0 +1,27 @@
+/* Custom styles for the sign-in form */
+.container {
+        margin-top: 20px;
+      }
+      
+      .sign-in-form {
+        border: 1px solid #ccc;
+        background-color: #28a745; /* Green background color */
+        padding: 20px;
+        max-width: 400px;
+        width: 100%;
+        margin-top: 10px;
+      }
+      
+      .sign-in-form form {
+        display: flex;
+        flex-direction: column;
+      }
+      
+      .form-group {
+        margin-bottom: 10px;
+      }
+      
+      .btn-primary {
+        margin-top: 10px;
+      }
+      
